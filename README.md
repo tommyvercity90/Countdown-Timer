@@ -146,7 +146,7 @@ The timer will display something similar to:
 
       Time remaining until the target date
 
-     90       12       35       48
+     19       12       35       48
     Days     Hours    Minutes  Seconds
 
 
